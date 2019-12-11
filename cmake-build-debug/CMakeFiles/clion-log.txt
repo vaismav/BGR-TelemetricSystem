@@ -1,0 +1,14 @@
+/snap/clion/82/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/avicii/Dropbox/BGR/Data Unit/cserver"
+-- The C compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+--   mongoc found version "1.15.0"
+--   mongoc include path "/usr/local/include/libmongoc-1.0;/usr/local/include/libbson-1.0"
+--   mongoc libraries "/usr/local/lib/libmongoc-1.0.so;/usr/local/lib/libbson-1.0.so;/usr/lib/x86_64-linux-gnu/libsasl2.so;/usr/lib/x86_64-linux-gnu/libssl.so;/usr/lib/x86_64-linux-gnu/libcrypto.so;rt;resolv"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/avicii/Dropbox/BGR/Data Unit/cserver/cmake-build-debug
